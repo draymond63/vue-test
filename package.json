@@ -6,6 +6,7 @@
     "build": "vite build"
   },
   "dependencies": {
+    "serve": "^11.3.2",
     "vue": "^3.0.4"
   },
   "devDependencies": {
