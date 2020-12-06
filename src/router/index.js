@@ -22,7 +22,7 @@ export const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/vue-test/'),
   routes,
 });
 
